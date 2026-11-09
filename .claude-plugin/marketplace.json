@@ -1,0 +1,12 @@
+{
+  "name": "rikoappdev-plugins",
+  "owner": { "name": "RikoAppDev" },
+  "metadata": { "description": "Claude Code plugins and mods by RikoAppDev" },
+  "plugins": [
+    {
+      "name": "loose-ends",
+      "description": "Keeps the questions and tasks Claude left for you, word for word, in a panel beside the chat",
+      "source": { "source": "github", "repo": "RikoAppDev/loose-ends" }
+    }
+  ]
+}
